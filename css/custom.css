@@ -1,0 +1,24 @@
+.class {
+	float:left;
+}
+.name-tag {
+	padding-left: 20px;
+}
+.price-tag {
+
+padding-left: 80px;
+}
+
+.qnt-tag {
+
+padding-left: 120px;
+}
+
+.sub-tag {
+
+padding-left: 140px;
+}
+
+.table, td {
+   padding-left: 120px;
+}
